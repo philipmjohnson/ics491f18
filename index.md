@@ -12,6 +12,8 @@ In this project-based special topics class, you will gain experience using Elect
 
 You will be able to work alone or in groups for this class.  There will be weekly meetings to discuss issues and coordinate tasks, but there will be no lectures; you will learn via doing.
 
+Your grade will be based upon attendance at weekly meetings and demonstrated ability by the end of the semester to build desktop applications using Electron via code review and in-class presentations. There will be no exams. 
+
 If you have any questions, please contact Philip Johnson (johnson@hawaii.edu).  If you decide to sign up, please let him know. We will use Doodle to find a time where everyone can meet.   
 
 
