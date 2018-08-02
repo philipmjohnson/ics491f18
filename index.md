@@ -10,11 +10,15 @@ In this project-based special topics class, you will gain experience using Elect
 
 * Part 2: Continue with TechFolio Designer, or design and build your own desktop app.  In the second half of the course, you can either continue to work on TechFolio Designer, or start work on your a desktop application of your own design. 
 
-You will be able to work alone or in groups for this class.  There will be weekly meetings to discuss issues and coordinate tasks, but there will be no lectures; you will learn via doing.
+*Prerequisites*: ICS 314, or equivalent experience with Javascript, GitHub, HTML, CSS, React.
 
-Your grade will be based upon attendance at weekly meetings and demonstrated ability by the end of the semester to build desktop applications using Electron via code review and in-class presentations. There will be no exams. 
+*Meeting location/times*: We will meet in POST 307, once a week, sometime between 10am - 4pm.  We will use Doodle to find a time that everyone can meet. It is OK if different groups meet with me at different times during the week.
 
-If you have any questions, please contact Philip Johnson (johnson@hawaii.edu).  If you decide to sign up, please let him know. We will use Doodle to find a time where everyone can meet.   
+*Structure*: You will be able to work alone or in groups for this class.  There will be weekly meetings to discuss issues and coordinate tasks, but there will be no lectures; you will learn via doing.
+
+*Grading*: Your grade will be based upon attendance at weekly meetings and the code you've developed by the end of the semester to demonstrate your ability to build desktop applications using Electron.
+
+*Questions*: If you have any questions, please contact Philip Johnson (johnson@hawaii.edu).  If you decide to sign up, please let me know via email.
 
 
 
