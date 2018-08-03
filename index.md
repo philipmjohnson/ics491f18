@@ -1,6 +1,6 @@
 # ICS 491 Fall 2018: Desktop App Development with Electron
 
-[Electron](https://electronjs.org/) is an interesting technology for building cross-platform desktop apps using Javascript, HTML, CSS, Node, and Chromium.  The idea is to take web application technologies (HTML, CSS, Javascript, Node) and use them instead of other cross-platform frameworks (such as Qt) or native frameworks (Swift for OSX, C#/Win32 for Windows, GTK for Linux).
+[Electron](https://electronjs.org/) is a modern technology for building cross-platform desktop apps using Javascript, HTML, CSS, Node, and Chromium.  The idea is to take web application technologies (HTML, CSS, Javascript, Node) and use them instead of other cross-platform frameworks (such as Qt) or native frameworks (Swift for OSX, C#/Win32 for Windows, GTK for Linux).
 
 Electron has been used to build the desktop clients for Skype, GitHub Desktop, GitKraken, Discord, Slack, Atom, and many others.  
 
