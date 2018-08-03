@@ -3,5 +3,7 @@
 
 @import "{{ site.theme }}";
 @media print {
- color: black;
+body {
+ color: black !important;
+ }
 }
